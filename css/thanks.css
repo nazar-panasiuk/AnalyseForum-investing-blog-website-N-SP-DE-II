@@ -36,7 +36,7 @@ h1 {
 .go-home {
     background: #fff;
     border: 2px solid #fff;
-    color: #ee2737ff;
+    color: #97bc62ff;
     font-weight: 600;
     letter-spacing: 1px;
     font-size: 12px;
@@ -55,14 +55,14 @@ h1 {
 }
 .go-home:hover {
     background: transparent;
-    border-color: #ee2737ff;
+    border-color: #97bc62ff;
 }
 a:hover .go-home {
-    color: #ee2737ff;
+    color: #97bc62ff;
 }
 .go-home a {
     text-decoration: none;
-    color: #ee2737ff;
+    color: #97bc62ff;
 }
 
 .footer-like {
